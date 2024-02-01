@@ -1,6 +1,6 @@
 body {
     background-color: #f4f4f5;
-    font-family: "ui-sans-serif", sans-serif, "Arial";
+    font-family: sans-serif, "Arial";
     margin: 0;
     padding: 0;
     display: flex;
@@ -14,7 +14,6 @@ body {
     max-width: 900px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    //background: #fff;
     margin: 20px;
 }
 
